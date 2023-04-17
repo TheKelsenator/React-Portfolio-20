@@ -48,7 +48,7 @@ function About() {
         My name is Kelsey M. O'Kelley. I am currently enrolled in a
         Full-Stack Web Development Program held by The University of Utah. 
         I am 34 years old and live year round in beautiful Stanley, ID - 
-        population 67 people and Gateway to the wild and scenic Frank Church 
+        population 67 people and the gateway to the wild and scenic Frank Church 
         Wilderness Area.
         <br />
         <br />

@@ -77,9 +77,7 @@
 
 ## Screenshots
 
- ![alt_text]()
- <br>
- ![alt_text]() 
+ ![alt_text](./react-portfolio/src/utils/Screenshot%20(64).png)
 
 ## Contact Me
 

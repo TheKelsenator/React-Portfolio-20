@@ -7,7 +7,9 @@ const styles = {
     justifyContent: 'center',
     paddingTop: '40px',
     paddingLeft: '40px',
+    color: '#09114e',
     backgroundColor: '#b3b289',
+    paddingBottom: '30px',
   }
 }
 

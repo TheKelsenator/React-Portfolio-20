@@ -32,7 +32,8 @@ function Main() {
       <div>
         <img style={styles.mainImg} src={Refractor} />
         <div style={styles.projectName}>
-          <p><strong>Refractor</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Horiseon</p>
+          <a href='https://github.com/TheKelsenator/yellow-free-fox-01' target='_blank'><p><strong>Refractor</strong></p></a> 
+          <a href='https://github.com/TheKelsenator/yellow-free-fox-01' target='blank'><p>Horiseon</p></a>
         </div> 
       </div>      
     </div>

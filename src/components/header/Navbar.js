@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const styles = {
   navbar: {
@@ -28,3 +29,10 @@ function Navbar() {
 
 
 export default Navbar;
+
+   <div styles={styles.navbar}>
+        <p style={styles.heading}>About Me</p>
+        <p style={styles.heading}>Portfolio</p>
+        <p style={styles.heading}>Contact Me</p>
+        <p style={styles.heading}>Resume</p>
+    </div>

@@ -69,7 +69,7 @@
 
 
 
-  https://github.com/TheKelsenator/stellers-jay-20 
+  https://github.com/TheKelsenator/React-Portfolio-20
 
 ## Contribution
 

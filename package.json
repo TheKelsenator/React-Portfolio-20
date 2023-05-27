@@ -1,7 +1,7 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "https://thekelsenator.github.io/stellers-jay-20",
+  "homepage": "https://github.com/TheKelsenator/React-Portfolio-20",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",

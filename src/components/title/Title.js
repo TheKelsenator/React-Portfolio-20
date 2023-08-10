@@ -6,21 +6,22 @@ const styles = {
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
-    fontSize: '30px',
+    fontSize: '45px',
     paddingTop: '5px',
-    paddingBottom: '5px',
+    paddingBottom: '10px',
     color: '#09114e',
     backgroundColor: '#b3b289',
     borderRadius: '10px',
+    opacity: '.7',
   },
 };
 
 function Title() {
   return (
     <div>
-      <div style={{ backgroundImage:`url(${Background})`,  backgroundSize: 'cover', padding: '60px 100px',  }}>
+      <div style={{ backgroundImage:`url(${Background})`,  backgroundSize: 'cover', padding: '60px 500px',  }}>
         <header>
-          <div style={styles.header}>Full-Stack Web Development Student</div>
+          <a style={styles.header}>Kelsey M. O'Kelley</a>
         </header>
       </div>
     </div>

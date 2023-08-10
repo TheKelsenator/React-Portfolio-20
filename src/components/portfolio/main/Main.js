@@ -8,7 +8,7 @@ const styles = {
     margin: 'auto',
     marginBottom: '40px',
     height: 'auto',
-    border: '4px solid #09114e',
+    border: '2px solid #09114e',
     borderRadius: '10px',
   },
   projectName: {
@@ -22,7 +22,10 @@ const styles = {
     marginTop: '10px',
     maxWidth: '60%',
     margin: 'auto',
-}
+}, 
+  projectText: {
+    fontSize: '30px',
+  }
 }
 
 
@@ -32,7 +35,7 @@ function Main() {
       <div>
         <img style={styles.mainImg} src={Refractor} />
         <div style={styles.projectName}>
-          <a href='https://github.com/TheKelsenator/yellow-free-fox-01' target='_blank'><p><strong>Refractor</strong></p></a> 
+          <a href='https://thekelsenator.github.io/HTML-CSS-Code-Refactor-01/' target='_blank'><p><strong>Refractor</strong></p></a> 
           <a href='https://github.com/TheKelsenator/yellow-free-fox-01' target='blank'><p>Horiseon</p></a>
         </div> 
       </div>      
@@ -40,3 +43,4 @@ function Main() {
   );
 }
 export default Main;
+

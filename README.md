@@ -66,7 +66,7 @@
 
 ## Screenshot
 
- ![alt_text](./src/utils/Screenshot%20(64).png)
+ ![alt_text](./src/utils/Screenshot(64).png)
 
  ## Links
 

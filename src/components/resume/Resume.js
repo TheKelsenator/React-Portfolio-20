@@ -1,5 +1,5 @@
 import React from 'react';
-import fakeResume from './assets/fakeResume.png';
+import fakeResume from './assets/Resume.png';
 
 const styles = {
   resume: {

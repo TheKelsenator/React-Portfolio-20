@@ -3,36 +3,28 @@ import { Link } from 'react-router-dom';
 
 const styles = {
   navbar: {
-
-  },
-  heading: {
     display: 'flex',
     alignItems: 'center',
-    justifyContent: 'center',
+  },
+  heading: {
+    justifyContent: 'space-between',
     padding: '10px 10px',
+    fontSize: '20px',
     color: '#09114e',
     backgroundColor: '#b3b289',
-    flexDirection: 'row',
-}
+  }
 }
 
 function Navbar() {
   return (
-    <div styles={styles.navbar}>
-        <p style={styles.heading}>About Me</p>
-        <p style={styles.heading}>Portfolio</p>
-        <p style={styles.heading}>Contact Me</p>
-        <p style={styles.heading}>Resume</p>
-    </div>
+    <nav styles={styles.navbar}>
+        <a style={styles.heading}>About Me</a>
+        <a style={styles.heading}>Portfolio</a>
+        <a style={styles.heading}>Contact Me</a>
+        <a style={styles.heading}>Resume</a>
+    </nav>
   );
 }
 
 
 export default Navbar;
-
-   <div styles={styles.navbar}>
-        <p style={styles.heading}>About Me</p>
-        <p style={styles.heading}>Portfolio</p>
-        <p style={styles.heading}>Contact Me</p>
-        <p style={styles.heading}>Resume</p>
-    </div>

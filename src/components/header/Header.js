@@ -6,9 +6,9 @@ const styles = {
   top: {
     display: 'flex',
     alignItems: 'center',
-    justifyContent: 'center',
-    position: 'sticky',
+    justifyContent: 'space-between',
     top: 0,
+    position: 'sticky',
     padding: '10px 10px',
     color: '#09114e',
     backgroundColor: '#b3b289',
@@ -26,7 +26,7 @@ const styles = {
 function Header() {
   return (
     <header style={styles.top}>
-      <h1 style={styles.heading}>Kelsey's Portfolio</h1>
+      <h2 style={styles.heading}>Full-Stack Web Developer</h2>
       <Navbar />
     </header>
   );

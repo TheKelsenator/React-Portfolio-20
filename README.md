@@ -1,9 +1,5 @@
 # Weekly Challenge: Twenty -
 
-  <a href="https://choosealicense.com/licenses/mit">
-  <img src="https://img.shields.io/badge/License-MIT-blue" />
-  </a>
-
 ## React Challenge: React Portfolio
 
   University of Utah
@@ -13,17 +9,16 @@
 
 ## Description
 
-  Create a portfolio, using your new React skills to help set you apart from other developers whose portfolios don’t use the latest technologies.
+  Welcome to my single-page application portfolio! This portfolio showcases my experience in building React applications and serves as a comprehensive overview of my skills and projects. Upon loading the portfolio, you'll find a clean and intuitive layout, featuring a header with navigation links to different sections such as About Me, Portfolio, Contact, and Resume. The navigation allows for seamless browsing without page reloads, and each section provides relevant information: from a brief bio and recent photo in About Me, to titled images linking to deployed applications and GitHub repositories in Portfolio, a contact form with validation in Contact, and a downloadable resume with skill proficiencies listed in Resume. Additionally, the footer provides convenient links to my GitHub, LinkedIn, and another relevant platform. Explore my work and feel free to reach out with any inquiries or opportunities!
 
-## Table of Contents
+## Table of Contents 
 
-- [User Story](#user)
-- [Acceptance Criteria](#acceptance)
-- [License](#license)
-- [Links](#links)
-- [Contribution](#contribution)
-- [Screenshots](#screenshots)
-- [Contact Me](#contact)
+  - [User Story](#user-story)
+  - [Acceptance Criteria](#acceptance-criteria)
+  - [License](#license)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Contact Me](#contact-me)
 
 ## User Story
 
@@ -63,22 +58,21 @@
 
   This project is licensed under the terms of the MIT license.
   [License Information](https://choosealicense.com/licenses/mit)
+  <br/>
+  <br/>
+  <a href="https://choosealicense.com/licenses/mit">
+  <img src="https://img.shields.io/badge/License-MIT-blue" />
+  </a>
 
-
-## Links
-
-
-
-  https://github.com/TheKelsenator/React-Portfolio-20
-
-## Contribution
-
-  Github [TheKelsenator](https://github.com/TheKelsenator)
-
-## Screenshots
+## Screenshot
 
  ![alt_text](./src/utils/Screenshot%20(64).png)
 
+ ## Links
+
+  * Application Link: https://arcane-retreat-89831-6e8eed9a5237.herokuapp.com/
+  * LinkedIn Profile: https://www.linkedin.com/in/kelsey-o-kelley-23057a20b/
+
 ## Contact Me
 
-  Email [km.okelley89@gmail.com](mailto:km.okelley89@gmail.com)
+  Feel free to reach out to me via email at km.okelley89@gmail.com or through my LinkedIn.

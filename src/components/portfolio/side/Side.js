@@ -42,15 +42,15 @@ function Side() {
       <div>
         <img style={styles.sideImg} src={Menu} />
           <div style={styles.projectName}>
-          <a href='https://my-menu.herokuapp.com/' target='_blank'><p><strong>My Menu</strong></p></a>
-          <a href='https://github.com/0zrk23/diet-saver' target='_blank'><p>Recipe Search & Save</p></a>
+          <a href='https://my-menu.herokuapp.com/' target='_blank' rel="noreferrer"><p><strong>My Menu</strong></p></a>
+          <a href='https://github.com/0zrk23/diet-saver' target='_blank' rel="noreferrer"><p>Recipe Search & Save</p></a>
           </div>  
       </div>
       <div>
         <img style={styles.sideImg} src={Movie} />
           <div style={styles.projectName}>
-          <a href='https://loquacious-florentine-c87ce2.netlify.app/' target='_blank'><p><strong>Flick Picker</strong></p></a>
-          <a href='https://github.com/ValentaCodes/flick-picker' target='_blank'><p>Movie Search</p></a>
+          <a href='https://loquacious-florentine-c87ce2.netlify.app/' target='_blank' rel="noreferrer"><p><strong>Flick Picker</strong></p></a>
+          <a href='https://github.com/ValentaCodes/flick-picker' target='_blank' rel="noreferrer"><p>Movie Search</p></a>
           </div>  
       </div>
     </div>

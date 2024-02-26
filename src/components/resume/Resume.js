@@ -41,8 +41,8 @@ function Resume() {
       <h2 style={styles.resumeText}>Resume</h2>
       <img style={styles.resumeImg} src={fakeResume} />
       <br />
-      <a href='https://github.com/TheKelsenator' target='_blank'><p style={styles.links}>Github</p></a>
-      <a href='https://www.linkedin.com/in/kelsey-o-kelley-23057a20b/' target='_blank'><p style={styles.links}>Linkedin</p></a>
+      <a href='https://github.com/TheKelsenator' target='_blank' rel="noreferrer"><p style={styles.links}>Github</p></a>
+      <a href='https://www.linkedin.com/in/kelsey-o-kelley-23057a20b/' target='_blank' rel="noreferrer"><p style={styles.links}>Linkedin</p></a>
     </div>
   );
 }
